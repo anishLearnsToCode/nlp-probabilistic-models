@@ -1,8 +1,8 @@
 # Levenshtein Distance Algorithm
-def editDistance(str1, str2):
-    m = len(str1)
-    n = len(str2)
-    delete_cost = 1
+def editDistance(source, target):
+    m = len(source)
+    n = len(target)
+    deletion_cost = 1
     insertion_cost = 1
     replacement_cost = 2
     dp = [[0 for x in range(n + 1)] for x in range(m + 1)]
@@ -15,13 +15,13 @@ def editDistance(str1, str2):
                 dp[i][j] = i
             else:
                 dp[i][j] = min(
-                    dp[i][j - 1] + delete_cost,
+                    dp[i][j - 1] + deletion_cost,
                     dp[i - 1][j] + insertion_cost,
-                    dp[i - 1][j - 1] + (replacement_cost if str1[i - 1] == str2[j - 1] else 0)
+                    dp[i - 1][j - 1] + (0 if source[i - 1] == target[j - 1] else replacement_cost)
                 )
     return dp[m][n]
 
 
-string1 = 'go'
-string2 = 'to'
+string1 = 'stay'
+string2 = 'play'
 print(editDistance(string1, string2))
