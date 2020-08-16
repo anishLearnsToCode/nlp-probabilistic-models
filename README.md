@@ -20,7 +20,8 @@ __~deeplearning.ai__
 - [Programming Assignment: Autocorrect](week_1/assignment/auto-correct.ipynb)
 
 ## Week 2
-- []Lab: ()
+- [Lab: Working With Text Data: Creating Vocabulary and Handling Unknown Words](week_2/creating-vocabulary-and-handling-unknown-words.ipynb)
+- [Lab: ]()
 - [Programming Assignment: Part of Speech Tagging]()
 
 ## Week 3
