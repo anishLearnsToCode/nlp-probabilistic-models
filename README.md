@@ -21,7 +21,7 @@ __~deeplearning.ai__
 
 ## Week 2
 - [Lab: Working With Text Data: Creating Vocabulary and Handling Unknown Words](week_2/creating-vocabulary-and-handling-unknown-words.ipynb)
-- [Lab: ]()
+- [Lab: Working With Tags & NumPy](week_2/working-with-tags-and-numpy.ipynb)
 - [Programming Assignment: Part of Speech Tagging]()
 
 ## Week 3
