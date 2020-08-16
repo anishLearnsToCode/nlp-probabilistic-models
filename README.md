@@ -14,6 +14,8 @@ __~deeplearning.ai__
 - [Certificate](#certificate)
 
 ## Week 1
+- [Lab: Building The Vocabulary](week_1/building-the-vocabulary.ipynb)
+- [Lab: Candidates From Edits]()
 - [Programming Assignment: Autocorrect]()
 
 ## Week 2
