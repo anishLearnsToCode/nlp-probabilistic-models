@@ -16,7 +16,7 @@ __~deeplearning.ai__
 ## Week 1
 - [Lab: Building The Vocabulary](week_1/building-the-vocabulary.ipynb)
 - [Lab: Candidates From Edits](week_1/candidates-from-edits.ipynb)
-- [Leven](week_1/minimum_edit_distance.py)
+- [Levenshtein Distance Algorithm](week_1/minimum_edit_distance.py)
 - [Programming Assignment: Autocorrect](week_1/assignment/auto-correct.ipynb)
 
 ## Week 2
