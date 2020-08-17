@@ -25,7 +25,10 @@ __~deeplearning.ai__
 - [Programming Assignment: Part of Speech Tagging Using Viterbi Algorithm](week_2/assignment/viterbi-algorithm.ipynb)
 
 ## Week 3
-- [Programming Assignment: Autocomplete]()
+- [Lab: Corpus Preprocessing for N-Grams](week_3/n-gram-corpus-preprocessing.ipynb)
+- [Lab: Building the Language Model](week_3)
+- [Lab: Language Model Generalization](week_3)
+- [Programming Assignment: Autocomplete](week_3/assignment)
 
 ## Week 4
 - [Programming Assignment: Word Embeddings]()
