@@ -28,7 +28,7 @@ __~deeplearning.ai__
 - [Lab: Corpus Preprocessing for N-Grams](week_3/n-gram-corpus-preprocessing.ipynb)
 - [Lab: Building the Language Model](week_3/building-the-language-model.ipynb)
 - [Lab: Out of Vocabulary Words](week_3/out-of-vocabulary-words.ipynb)
-- [Programming Assignment: Autocomplete](week_3/assignment)
+- [Programming Assignment: Autocomplete](week_3/assignment/autocomplete-using-n-grams.ipynb)
 
 ## Week 4
 - [Programming Assignment: Word Embeddings]()
