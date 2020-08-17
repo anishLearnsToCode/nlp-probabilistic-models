@@ -22,7 +22,7 @@ __~deeplearning.ai__
 ## Week 2
 - [Lab: Working With Text Data: Creating Vocabulary and Handling Unknown Words](week_2/creating-vocabulary-and-handling-unknown-words.ipynb)
 - [Lab: Working With Tags & NumPy](week_2/working-with-tags-and-numpy.ipynb)
-- [Programming Assignment: Part of Speech Tagging]()
+- [Programming Assignment: Part of Speech Tagging Using Viterbi Algorithm](week_2/assignment/viterbi-algorithm.ipynb)
 
 ## Week 3
 - [Programming Assignment: Autocomplete]()
