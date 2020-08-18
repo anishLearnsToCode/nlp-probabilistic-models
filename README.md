@@ -31,6 +31,10 @@ __~deeplearning.ai__
 - [Programming Assignment: Autocomplete](week_3/assignment/autocomplete-using-n-grams.ipynb)
 
 ## Week 4
-- [Programming Assignment: Word Embeddings]()
+- [Lab: Data Pre-Processing](week_4/data-pre-processing.ipynb)
+- [Lab: Activation Functions](week_4/activation-functions.ipynb)
+- [Lab: Training The CBOW (Continuous Bag of Words) Model](week_4/)
+- [Lab: ](week_4)
+- [Programming Assignment: Word Embeddings](week_4/assignment)
 
 ## Certificate
