@@ -33,8 +33,8 @@ __~deeplearning.ai__
 ## Week 4
 - [Lab: Data Pre-Processing](week_4/data-pre-processing.ipynb)
 - [Lab: Activation Functions](week_4/activation-functions.ipynb)
-- [Lab: Training The CBOW (Continuous Bag of Words) Model](week_4/)
-- [Lab: ](week_4)
+- [Lab: Training The CBOW (Continuous Bag of Words) Model](week_4/training-the-cbow-model.ipynb)
+- [Lab: ](week_4/)
 - [Programming Assignment: Word Embeddings](week_4/assignment)
 
 ## Certificate
