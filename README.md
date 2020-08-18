@@ -36,6 +36,8 @@ __~deeplearning.ai__
 - [Lab: Training The CBOW (Continuous Bag of Words) Model](week_4/training-the-cbow-model.ipynb)
 - [Lab: Word Embeddings](week_4/word-embeddings.ipynb)
 - [Lab: Word Embeddings - The Full Pipeline](week_4/word-embeddings-full-pipeline.ipynb)
-- [Programming Assignment: Word Embeddings](week_4/assignment)
+- [Programming Assignment: Word Embeddings](week_4/assignment-word-embeddings.ipynb)
 
-## Certificate
+## Certificate [🎓](https://coursera.org/verify/PGMHY4YCG85G)
+![certificate](assets/certificate.PNG)
+
