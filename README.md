@@ -35,7 +35,7 @@ __~deeplearning.ai__
 - [Lab: Activation Functions](week_4/activation-functions.ipynb)
 - [Lab: Training The CBOW (Continuous Bag of Words) Model](week_4/training-the-cbow-model.ipynb)
 - [Lab: Word Embeddings](week_4/word-embeddings.ipynb)
-- [Lab: ](week_4/)
+- [Lab: Word Embeddings - The Full Pipeline](week_4/word-embeddings-full-pipeline.ipynb)
 - [Programming Assignment: Word Embeddings](week_4/assignment)
 
 ## Certificate
